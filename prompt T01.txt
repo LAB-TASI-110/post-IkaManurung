@@ -1,0 +1,25 @@
+Dua orang mahasiswa bernama ucok dan butet ingin mengirimkan beberapa barang ke kampung halaman masing masing. Mereka menggunakan jasa pengiriman baru yang bernama Del-Express. Bertindaklah sebagai seorang programmer Java yang handal untuk membuat sistem jasa pengiriman Del-Express. Gunakan OOP untuk menyelesaikan masalah.
+Adapun daftar ongkos kirim Del-Express yaitu:
+Datanya ada Kode kota, Nama kota, ongkos kirim/kg, Keterangan (tidak case sensitive). yang dimana isi datanya ada MDN, Medan, 8000, Dalam Pulau. BLG, Balige, 5000, Dalam Pulau. JKT, Jakarta, 12000. Luar Pulau. SBY, Surabaya, 13000, Luar Pulau. 
+
+Terdapat promo ongkir lebaran yang syaratnya jikalau total berat pengiriman lebih dari 10kg maka promo yang didapat diskon ongkir sebesar 10%. Lalu pengiriman ke kota luar pulau dapat promo asuransi gratis.
+Kardus pengiriman Butet berada di berat 1kg sedangkan kardus ucok 3/2 x berat paket butet.
+Petugas Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok.
+contoh inputan :
+MDN
+5
+JKT
+3
+BLG
+4
+END
+gunakan --- untuk mengakhiri inputan agar output bisa keluar, cek validasi inputan.
+Output yang diharapkan :
+Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh,
+Gunakan Bahasa Java versi jdk21. Usahakan code tidak ada error. Gunakan arraylist karena datanya banyak. Gunakan import library sesuaikan dengan sistemnya. Penamaan setiap file javanya juga sesuaikan. Buatkan untuk driver1.java dan juga model1.java

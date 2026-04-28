@@ -1,0 +1,7 @@
+Seorang mahasiswa memiliki tugas untuk membuat program yang mampu menentukan total stok yaitu dasi sd sebanyak 22pcs, gula sebanyak 85pcs, rok pramuka sebanyak 5pcs, dan minyak sebanyak 120pcs. Bertindaklah sebagai programmer Java yang handal untuk membantu membuat program tersebut. Gunakan OOP dalam pembuatan sistemnya. 
+Contoh inputnya yaitu:
+1.  Jumlah total data (N).
+2.  Deret stok (s1, s2, ..., sN).
+3.  Kode kategori barang.
+Outputnya sesuaikan dengan contoh inputannya. 
+Gunakan bahasa pemrograman Java versi jdk21 dan visual studio code sebagai tempat pengeksekusiannya. Usahakan code tidak ada yang error. Gunakan import library dan arraylist lalu sesuaikan dengan sistem yang dibangun. Adapun file yang mau dibuat yaitu Driver2.java dan Model2.java
